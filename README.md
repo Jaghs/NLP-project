@@ -1,8 +1,4 @@
-# mini-project-V
-
-The repo with instructions for Mini Project V
-
-Welcome to your final mini-project of this bootcamp. We hope you will enjoy it. 
+# Natural Language Processing Project 
 
 ### Description
 
