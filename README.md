@@ -1,9 +1,9 @@
 # Natural Language Processing Project 
 
-## Project/Goals
+## Project/Goals 🎯
 This project aims to build a machine learning model that can predict if two given questions are duplicates or not. The dataset used for this project contains pairs of questions along with a binary label indicating if the questions are duplicates or not. The model will be trained using various features extracted from the questions such as the number of unique words and the TF-IDF vectors of the preprocessed questions.
 
-## Project Flow 
+## Project Flow 🔄️
 
 1. EDA
 2. Cleaning
@@ -15,7 +15,7 @@ The project involves several steps such as data preprocessing, feature extractio
 
 ![before_after](./images/before_after.png)
 
-## Results
+## Results 📊
 
 ![confusion_matrix](./images/confusion_matrix.png)
 
@@ -37,8 +37,9 @@ Looking into more detail the evaluation metrics tell us much more about this mod
 
 - This curve shows us the probability at which the model predicts the positive class depending on the tradeoff between recall and precision .
 
-## Challenges & Future
+## Challenges 🚧
 For challenges, I found it hard to vectorize the questions and combine them into my dataframe as I had to compress the data since my computer could not store it within my RAM capacity.
 
-For the future I would like to test out more models and create some more unique features within the dataset.
+## Future 💡
+I would like to test out more models and create some more unique features within the dataset.
 
